@@ -1,6 +1,9 @@
 # Avalanche-Node
 
-API EndPoints : https://blastapi.io/public-api/avalanche
+API EndPoints :
+1. https://blastapi.io/public-api/avalanche
+2. https://rpc.info/
+
 
 Run Avalanche node at terminal
 
