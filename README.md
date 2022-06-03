@@ -1,8 +1,9 @@
 # Avalanche-Node
 
 API EndPoints :
-1. https://blastapi.io/public-api/avalanche
-2. https://rpc.info/
+1. https://docs.avax.network/apis/avalanchego/public-api-server/
+2. https://blastapi.io/public-api/avalanche
+3. https://rpc.info/
 
 
 Run Avalanche node at terminal
